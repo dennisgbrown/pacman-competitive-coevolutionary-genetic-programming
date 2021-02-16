@@ -1,0 +1,45 @@
+Result Log
+
+random seed: 1606528574239
+strategy: ccegp
+number of runs per experiment: 1
+number of fitness evals per run: 2000
+pac solution file path: solutions/defaultPacSolution.txt
+ghost solution file path: solutions/defaultGhostSolution.txt
+highest-scoring world file path: worlds/defaultHighScoreWorld.txt
+pill density: 0.5
+fruit spawning probability: 0.01
+fruit score: 10.0
+time multiplier: 2.0
+pac_mu: 100
+pac_lambda: 50
+pac_dmax_init: 7
+pac_dmax_overall: 9
+pac_parent selection method: overselection
+pac_overselection top for parent selection: 0.32
+pac_probability of mutation p_m: 0.05
+pac_survival selection method: truncation
+pac_parsimony technique: size
+pac_parsimony pressure penalty coefficient: 0.5
+ghost_mu: 100
+ghost_lambda: 50
+ghost_dmax_init: 7
+ghost_dmax_overall: 9
+ghost_parent selection method: overselection
+ghost_overselection top for parent selection: 0.32
+ghost_probability of mutation p_m: 0.05
+ghost_survival selection method: truncation
+ghost_parsimony technique: size
+ghost_parsimony pressure penalty coefficient: 0.5
+termination method: number_of_evals
+CIAO data file path root: default
+parsimony log file path: data/defaultParsimonyLog.txt
+
+Run 1
+100	-44.95	33.5
+150	1.82	33.5
+200	5.28	47.5
+	5.9	36.5
+150	11.92	47.5
+175	19.28	58.5
+200	25.82	58.5
