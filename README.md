@@ -1,7 +1,13 @@
 # README for COMP 6666 Fall 2020 Assignment 2c
 Dennis Brown / dgb0028@auburn.edu / 29 NOV 2020
 
-## Overview & Usage
+## Overview 
+
+Competitive Coevolutionary Genetic Programming (GP) for (a version of) the game of Pac-Man.
+
+See the [project report](https://github.com/dennisgbrown/comp6666-pacman-competitive-coevolutionary-genetic-programming/blob/master/assignment2c_report.pdf) for more context.
+
+## Usage
 
 Code was written in Python 3 and is all in the "code" folder.
 
